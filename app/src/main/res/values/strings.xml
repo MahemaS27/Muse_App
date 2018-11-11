@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PlaylistMaker</string>
+    <string name="title_activity_location_search">LocationSearch</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="searchbutton">Button</string>
+    <string name="searchableButton">searchableButton</string>
+    <string name="Search">search</string>
+    <string name="title_activity_playlist_view">PlaylistView</string>
+    <string name="textviewfinal">TextView</string>
+</resources>
